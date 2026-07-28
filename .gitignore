@@ -1,6 +1,8 @@
 /.cache
 /.vscode
 /result
+/subprojects/*
+!/subprojects/*.wrap
 /build
 /mango-wlonly
 config.h
